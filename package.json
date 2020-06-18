@@ -8,6 +8,10 @@
   },
   "author": "Shocker",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabianjana/shockerbot"
+  },
   "dependencies": {
     "discord.js": "^12.2.0"
   }
